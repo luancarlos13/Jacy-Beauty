@@ -1,6 +1,6 @@
-💄 Jacy Beauty – Landing Page
+## 💄 Jacy Beauty – Landing Page
 
-🌟 Sobre o projeto
+## 🌟 Sobre o projeto
 
 A Jacy Beauty é uma Landing Page moderna e responsiva desenvolvida para apresentar os serviços de uma profissional da área da beleza de forma elegante e profissional. O projeto foi criado com foco na experiência do usuário, destacando os principais serviços, diferenciais e facilitando o contato com clientes em potencial.
 
@@ -8,7 +8,7 @@ O design foi pensado para transmitir sofisticação, confiança e credibilidade,
 
 
 
-✨ Funcionalidades
+## ✨ Funcionalidades
 
 - 💇 Apresentação profissional da especialista.
 - 💅 Exibição dos principais serviços oferecidos.
@@ -20,7 +20,7 @@ O design foi pensado para transmitir sofisticação, confiança e credibilidade,
 
 
 
-🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
 - 🌐 HTML5
 - 🎨 CSS3
@@ -29,13 +29,13 @@ O design foi pensado para transmitir sofisticação, confiança e credibilidade,
 
 
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Desenvolver uma Landing Page profissional capaz de fortalecer a presença digital da marca Jacy Beauty, transmitir credibilidade e aumentar as oportunidades de contato com novos clientes.
 
 
 
-📱 Responsividade
+## 📱 Responsividade
 
 O projeto foi desenvolvido utilizando o conceito de Mobile First, garantindo excelente visualização em:
 
@@ -45,7 +45,7 @@ O projeto foi desenvolvido utilizando o conceito de Mobile First, garantindo exc
 - 🖥️ Computadores
 
 
-🎨 Destaques do Projeto
+## 🎨 Destaques do Projeto
 
 - ✨ Interface moderna.
 - 🎯 Estrutura focada em conversão.
