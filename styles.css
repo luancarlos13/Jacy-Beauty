@@ -68,7 +68,7 @@ h2 {
 }
 
 h2:hover {
-    color: #008080;
+    color: #2C2C90;
 }
 
 /* Subtítulos */
@@ -108,9 +108,7 @@ p {
 
 /* Botão principal (destaque) */
 .btn-primary {
-    background: #008080;
-    color: var(--accent);
-
+    background: #2C2C90;
 }
 
 /* Efeito hover do botão principal */
@@ -141,7 +139,7 @@ p {
 }
 
 .btn-whatsapp:hover {
-    background: #128c7e;
+    background: #2C2C90;
     transform: translateY(-2px);
 }
 
@@ -176,7 +174,7 @@ p {
 }
 
 .logo:hover {
-    color: #008080;
+    color: #2C2C90;
 }
 
 /* Menu de navegação */
@@ -195,7 +193,7 @@ p {
 
 /* Hover nos links */
 .nav-menu a:hover {
-    color: #008080;
+    color: #2C2C90;
 }
 
 /* Linha animada abaixo do link */
@@ -281,7 +279,7 @@ p {
 
     .nav-menu a:hover {
         background: #f5f5f5;
-        color: #008080;
+        color: #2C2C90;
     }
 
     .nav-menu a::after {
@@ -361,14 +359,13 @@ p {
 }
 
 .hero-content h1:hover {
-    color: #008080;
+    color: #2C2C90;
     transition: color 0.3s ease;
 }
 
 /* Badge de destaque no hero */
 .hero-badge {
     display: inline-block;
-    background: linear-gradient(135deg, var(--secondary), var(--primary));
     color: var(--white);
     padding: 8px 16px;
     border-radius: 50px;
@@ -380,7 +377,6 @@ p {
 /* Subtítulo do hero */
 .hero-subtitle {
     font-size: 1.25rem;
-    color: var(--text-light);
     margin-bottom: 30px;
 }
 
@@ -406,12 +402,10 @@ p {
     display: block;
     font-size: 1.75rem;
     font-weight: 800;
-    color: var(--primary);
 }
 
 .stat-label {
     font-size: 0.875rem;
-    color: var(--text-light);
 }
 
 /* Área visual do hero */
@@ -429,8 +423,8 @@ p {
     border-radius: 50%;
     overflow: hidden;
     position: relative;
-    box-shadow: 0 20px 60px #008080;
-    border: 5px solid #008080;
+    box-shadow: 0 20px 60px #2C2C90;
+    border: 5px solid #2C2C90;
     animation: float 3s ease-in-out infinite;
 }
 
@@ -608,7 +602,7 @@ section {
 /* Hover do card de serviço */
 .servico-card:hover {
     transform: translateY(-8px);
-    box-shadow: 0 0 50px rgba(0, 128, 128, 0.55), 0 12px 30px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 50px #2C2C90, 0 12px 30px rgba(0, 0, 0, 0.25);
 }
 
 /* EDITÁVEL: Imagem do serviço */
@@ -744,7 +738,7 @@ section {
 }
 
 .beneficios .section-header h2:hover {
-    color: #008080;
+    color: #2C2C90;
 }
 
 /* Grid de benefícios */
@@ -756,17 +750,17 @@ section {
 
 /* Card de benefício */
 .beneficio-card {
-    background: #008080;
+    background: #2C2C90;
     backdrop-filter: blur(10px);
     padding: 30px;
     border-radius: var(--radius);
     text-align: center;
-    border: 1px solid #008080;
+    border: 1px solid #2C2C90;
     transition: var(--transition);
 }
 
 .beneficio-card:hover {
-    background: #008080;
+    background: #2C2C90;
     transform: translateY(-5px);
     box-shadow: 0 0 20px rgba(255, 215, 0, 0.7), 0 8px 20px rgba(0, 0, 0, 0.2);
 }
@@ -860,7 +854,7 @@ ltw1 .beneficio-card h3 {
 
 
 .footer {
-    background: #008080;
+    background: #2C2C90;
     color: var(--white);
     padding: 60px 0 20px;
 }
@@ -895,10 +889,6 @@ ltw1 .beneficio-card h3 {
     transition: var(--transition);
 }
 
-.footer-links a:hover {
-    color: var(--primary);
-}
-
 /* Redes sociais */
 .footer-social {
     display: flex;
@@ -916,7 +906,7 @@ ltw1 .beneficio-card h3 {
 }
 
 footer {
-    background: #008080;
+    background: #2C2C90;
     color: #ffffff;
     padding: 40px 20px 30px;
     display: flex;
