@@ -1024,7 +1024,7 @@ footer p {
         top: 70px;
         left: 0;
         right: 0;
-        background: var(--white);
+        background: var(--gray);
         flex-direction: column;
         padding: 30px;
         gap: 20px;
@@ -1032,6 +1032,10 @@ footer p {
         transform: translateY(-150%);
         opacity: 0;
         transition: var(--transition);
+    }
+
+    .nav-menu a {
+        color: var(--white);
     }
 
     /* Menu mobile ativo */
@@ -1042,7 +1046,7 @@ footer p {
 
     /* Mostra o botão hambúrguer */
     .nav-toggle {
-        display: flex;
+        display: flex;    
     }
 
     /* Animação do hambúrguer para X */
