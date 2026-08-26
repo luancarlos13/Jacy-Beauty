@@ -69,6 +69,7 @@ h2 {
 
 h2:hover {
     color: #2C2C90;
+    cursor: pointer;
 }
 
 /* Subtítulos */
@@ -361,6 +362,7 @@ p {
 .hero-content h1:hover {
     color: #2C2C90;
     transition: color 0.3s ease;
+    cursor: pointer;
 }
 
 /* Badge de destaque no hero */
